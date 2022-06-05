@@ -1,0 +1,51 @@
+@media (max-width: 1113px) {
+    .content_type_inner{
+        padding-bottom: 5px;
+    }
+    .quote-icon {
+        display: none;
+    }
+}
+
+@media (min-width: 1200px) {
+    .quote {
+        position: relative;
+        top: 30px;
+        left: 230px;
+        width: 60%;
+    }
+
+    .quote-icon {
+        position: relative;
+        left: -120px;
+        bottom: -50px;
+    }
+}
+
+.special-collapse-button, .special-collapse-button:hover{
+    background-color: #157FE6;
+}
+.special-collapse-button::before {
+    display: block;
+    content: '';
+    width: 20px;
+    height: 39px;
+    position: absolute;
+    top: -1px;
+    right: -20px;
+    background: #157FE6;
+    background: linear-gradient(to bottom right, rgba(21,127,230) 50%, transparent 52%);
+}
+
+.hidden {
+    display: none;
+}
+
+.second-name{
+    display: block;
+    font-weight: bold;
+}
+
+.border-bottom-blue {
+    border-bottom: solid 2px #157FE6;
+}
