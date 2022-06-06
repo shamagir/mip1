@@ -11,16 +11,13 @@
         max-height: 100%;
     }
     .quote-background-text {
-        top: 0px !important;
-    }
-    .border-bottom-blue {
-        border: none !important;
-        padding-bottom: 0 !important;
+        top: 20px !important;
+        font-size: 14px;
     }
     .quote-background {
-        background: none !important;
+        height: 320px;
+        margin-bottom: 50px;
     }
-
 }
 
 @media (max-width: 800px) {
