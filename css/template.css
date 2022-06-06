@@ -13306,14 +13306,14 @@ textarea.form-control-lg {
 
 @font-face {
     font-family: HeliosC;
-    src: url("/local/templates/main/assets/HeliosC.a3a42d7f.woff2");
+    src: url("https://mip.teachef.ru/local/templates/main/assets/HeliosC.a3a42d7f.woff2");
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: HeliosC;
-    src: url("/local/templates/main/assets/HeliosC-Bold.581029fa.woff2");
+    src: url("https://mip.teachef.ru/local/templates/main/assets/HeliosC-Bold.581029fa.woff2");
     font-weight: 700;
     font-style: normal;
 }

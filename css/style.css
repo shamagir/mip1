@@ -66,3 +66,19 @@
 .border-bottom-blue {
     border-bottom: solid 2px #157FE6;
 }
+
+.quote-background {
+    background-image: url(../imgs/quotation-icon.svg);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.quote-background-text {
+    line-height: 110%;
+    position: relative;
+    top: 60px;
+}
+
+.font-14 {
+    font-size: 14px;
+}
