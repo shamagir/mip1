@@ -10,6 +10,17 @@
         bottom: 0;
         max-height: 100%;
     }
+    .quote-background-text {
+        top: 0px !important;
+    }
+    .border-bottom-blue {
+        border: none !important;
+        padding-bottom: 0 !important;
+    }
+    .quote-background {
+        background: none !important;
+    }
+
 }
 
 @media (max-width: 800px) {
